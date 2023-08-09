@@ -88,6 +88,30 @@ body {
     background-color: #FFC9D6;
 }
 
+.tab-text {
+    align-self: center;
+    margin: auto;
+    background-color: #FFF2F2;
+    border: 4px solid #FFC9D6;
+    border-radius: 38px;
+    width: 100%;
+    font-family: 'Italiana', serif;
+    font-size: 18px;
+    color: #aaaaaa;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tab-text a {
+    text-decoration: none;
+    color: #aaaaaa;
+}
+
+.tab-text:hover {
+    background-color: #FFC9D6;
+}
+
 @media (max-width: 769px) {
     .image-container {
         text-align: center;

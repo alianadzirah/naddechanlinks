@@ -105,6 +105,11 @@ body {
     color: #ffffff;
 }
 
+.button-text:hover a {
+    background-color: #d1b399;
+    color: #ffffff;
+}
+
 .tab-text {
     align-self: center;
     margin: auto;
